@@ -87,6 +87,6 @@ int main()
                                     goto awal;
                         }
             getch();
-            system("cls");
+            system("clear");
             goto awal;
 }
