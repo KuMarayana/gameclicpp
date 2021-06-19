@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 using namespace std;
-main()
+int main()
 {
             int acak, pilih;
             srand(time(NULL));
